@@ -11,34 +11,34 @@ redirect_from:
 
 Education
 ======
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in  Signal and Image Processing Sciences, Paris Saclay University, Gif-sur-Yvette (France) 2022-2025
+* MSc Industrial and Applied Mathematics, Data Science, ENSIMAG Grenoble INP, Grenoble (France) 2020-2021
+* Mathematical Engineering, Southampton University, Southampton (England) 2018-2019
+* Mathematical Engineering, Universidad Complutense, Madrid (Spain) 2016-2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Visiting Researcher (November 2023 - December 2023)
+  * Unicamp University, Brazil (Campinas, Brazil)
+  * MICLAB and LAD2 laboratories
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Engineer (December 2021 - September 2025)
+  * Evry University (Evry-Courcouronnes, France)
+  * IBISC laboratory
+  * Industrial project (10 months) and PhD thesis (3 years)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Assistant Professor
+  * Evry University (Evry-Courcouronnes, France)
+  * Thesis supervisor, master's thesis jury, assistant professor
+    
+* Research Engineer Intern (March 2021 - August 2021)
+  * LVA laboratory, CEA Saclay (Palaiseau, France)
+  * Few-shot learning
+    
+* Data Scientist Intern (February 2020 - June 2020)
+  * Data and Analytics Department, Ymedia (Madrid, Spain)
+    
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
