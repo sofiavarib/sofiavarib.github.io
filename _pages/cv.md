@@ -11,29 +11,25 @@ redirect_from:
 
 Education
 ======
-* PhD in  Signal and Image Processing Sciences, Paris Saclay University, Gif-sur-Yvette (France) 2022-2025
-* MSc Industrial and Applied Mathematics, Data Science, ENSIMAG Grenoble INP, Grenoble (France) 2020-2021
-* Mathematical Engineering, Southampton University, Southampton (England) 2018-2019
-* Mathematical Engineering, Universidad Complutense, Madrid (Spain) 2016-2020
+* PhD in  Signal and Image Processing Sciences, Paris Saclay University, 2022-2025
+* MSc Industrial and Applied Mathematics, Data Science, ENSIMAG Grenoble INP, 2020-2021
+* Mathematical Engineering, Southampton University, 2018-2019
+* Mathematical Engineering, Universidad Complutense, 2016-2020
 
 Work experience
 ======
 * Visiting Researcher (November 2023 - December 2023)
-  * Unicamp University, Brazil (Campinas, Brazil)
-  * MICLAB and LAD2 laboratories
+  * MICLAB and LAD2 laboratories, Unicamp University
 
 * Research Engineer (December 2021 - September 2025)
-  * Evry University (Evry-Courcouronnes, France)
-  * IBISC laboratory
+  * IBISC laboratory, Evry University
   * Industrial project (10 months) and PhD thesis (3 years)
 
-* Assistant Professor
-  * Evry University (Evry-Courcouronnes, France)
-  * Thesis supervisor, master's thesis jury, assistant professor
+* Assistant Professor (September 2022 - September 2025)
+  * Evry University
     
 * Research Engineer Intern (March 2021 - August 2021)
-  * LVA laboratory, CEA Saclay (Palaiseau, France)
-  * Few-shot learning
+  * LVA laboratory, CEA Saclay
     
 * Data Scientist Intern (February 2020 - June 2020)
   * Data and Analytics Department, Ymedia (Madrid, Spain)
