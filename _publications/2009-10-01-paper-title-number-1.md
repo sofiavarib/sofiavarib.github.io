@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024
+date: 2024-07-03
 venue: 'Proceedings of The 7th International Conference on Medical Imaging with Deep Learning'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://proceedings.mlr.press/v250/ibarra24a.html'
