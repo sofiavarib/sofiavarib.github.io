@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* PhD in  Signal and Image Processing Sciences, Paris Saclay University, 2022-2025
-* MSc Industrial and Applied Mathematics, Data Science, ENSIMAG Grenoble INP, 2020-2021
-* Mathematical Engineering, Southampton University, 2018-2019
-* Mathematical Engineering, Universidad Complutense, 2016-2020
+* PhD in  Signal and Image Processing Sciences, Paris Saclay University, 2025
+* MSc Industrial and Applied Mathematics, Data Science, ENSIMAG Grenoble INP, 2021
+* Mathematical Engineering, Universidad Complutense, 2020
+* Mathematical Engineering, Southampton University, 2019
 
 Work experience
 ======
