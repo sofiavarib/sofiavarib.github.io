@@ -15,7 +15,7 @@ var addressPoints = [
     -16.7356853
   ],
   [
-    "Scientific and Technical Careers Girls' Choices vs. Boys' Choices. What Are the Consequences?<br />Equality Week at Leon Blum High School; Cr\u00e9teil, France",
+    "Scientific and Technical Careers Girls' Choices vs. Boys' Choices. What Are the Consequences?<br />Leon Blum High School, Equality Week; Cr\u00e9teil, France",
     48.7771486,
     2.4530731
   ]
