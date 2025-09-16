@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Signal and Image Processing Sciences at [IBISC lab](https://www.ibisc.univ-evry.fr/en/) [Paris Saclay University](https://www.universite-paris-saclay.fr/en) in France, ranked 13th worldwide in [Shanghai 2025 ranking](https://www.shanghairanking.com/news/arwu/2025). I worked on an interdisciplinary project relating deep learning methods and neurology. I developed a full automatic pipeline to improve the expert decision-making and characterise patients suffering from a stroke. I also worked as an Assistant Professor for 3 years, covering statistics, mathematics and Machine Learning courses at [UFR](https://www.univ-evry.fr/universite/organisation/composantes/stockage-des-ufrs/ufr-sciences-fondamentales-et-appliquees.html).
+I am a PhD student in Signal and Image Processing Sciences at the lab [IBISC](https://www.ibisc.univ-evry.fr/en/) from [Paris Saclay University](https://www.universite-paris-saclay.fr/en) in France, ranked 13th worldwide in [Shanghai 2025 ranking](https://www.shanghairanking.com/news/arwu/2025). I worked on an interdisciplinary project relating deep learning methods and neurology. I developed a full automatic pipeline to improve the expert decision-making and characterise patients suffering from a stroke. I also worked as an Assistant Professor for 3 years, covering statistics, mathematics and Machine Learning courses at [UFR](https://www.univ-evry.fr/universite/organisation/composantes/stockage-des-ufrs/ufr-sciences-fondamentales-et-appliquees.html).
 
 In 2023, I was a visiting researcher at [Unicamp University](https://unicamp.br/en/) in Brazil. 
 
