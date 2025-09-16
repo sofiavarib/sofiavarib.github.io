@@ -15,8 +15,8 @@ var addressPoints = [
     -16.7356853
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Scientific and Technical Careers Girls' Choices vs. Boys' Choices. What Are the Consequences?<br />Equality Week at Leon Blum High School; Cr\u00e9teil, France",
+    48.7771486,
+    2.4530731
   ]
 ];
