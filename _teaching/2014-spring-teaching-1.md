@@ -4,17 +4,16 @@ collection: teaching
 type: "PhD course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Centrale Supelec"
-date: 2014-01-01
-location: "City, Country"
+date: 2022-10-18
+location: "Evry, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Programme
 ======
+1. Statistical background for neural network understanding : classification, NL regression
+2. Deep-tech
+3. Feature extraction, unsupervised feature extraction, BSS, dictionary learning
+4. Case study: ECG, EMG, surgery gest prediction, MRI image segmentation, cell cytology, brain stimulation, Alzheimer diagnosis detection, intelligent sensor calibration, MFI and image segmentation, non destructive analysis
 
-Heading 2
-======
 
-Heading 3
-======
