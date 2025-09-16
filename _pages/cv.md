@@ -54,6 +54,18 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Social Commitments
+======
+* Volunteer in the Women and Science Association, promote STEM careers for girls (2025-Now)
+* Mathematics support teacher during the Covid-19 lockdown for the sons and daughters of workers at the Complutense University of Madrid
+* Mentor for international university students
+
+Not technical courses 
+======
+* Educational training: neuropedagogy and cognitive biases, implement effective classroom management, etc
+* Psychology online courses
+* French and English courses
+
+
 ======
 * Currently signed in to 43 different slack teams
