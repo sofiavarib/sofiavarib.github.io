@@ -11,7 +11,12 @@ I am a PhD student in Signal and Image Processing Sciences at [Paris Saclay Univ
 
 In 2023, I was a visiting researcher at [Unicamp University](https://unicamp.br/en/) in Brazil. 
 
-I got my Master's degree from [ENSIMAG, Grenoble INP](https://ensimag.grenoble-inp.fr/en) in Applied and Industrial Mathematics, Data Science in France and my Bachelor's degree from [Universidad Complutense de Madrid](https://www.ucm.es/) in Mathematical Engineering in Spain. During my Bachelor's, I did an Erasmus semester in [University of Southampton](https://www.southampton.ac.uk/), in England.
+I got my Master's degree from [Ensimag, Grenoble INP](https://ensimag.grenoble-inp.fr/en) in Applied and Industrial Mathematics, Data Science in France. My master's thesis was about Few-shot learning for object detection, at the  [AI Vision and Language laboratory, CEA](https://kalisteo.cea.fr/index.php/ai/). 
+
+I did my Bachelor's degree at [Universidad Complutense de Madrid](https://www.ucm.es/) in Mathematical Engineering in Spain. During my Bachelor's, I did an Erasmus semester in [University of Southampton](https://www.southampton.ac.uk/), in England, and my undergraduate thesis was Cancer detection using deep learning.
+
+
+
 
 
 
