@@ -10,9 +10,9 @@ var addressPoints = [
     -47.059564
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.1440551
+    "Benefits of AI in acute stroke diagnosis with multimodal MRI<br />Summer School DeepLearn2023 Summer; Great Canary, Spain",
+    28.0840612,
+    -16.7356853
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
