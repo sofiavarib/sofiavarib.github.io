@@ -1,3 +1,11 @@
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am a PhD student in Signal and Image Processing Sciences at [Paris Saclay University](https://www.universite-paris-saclay.fr/en) in France, ranked 13th worldwide in [Shanghai 2025 ranking](https://www.shanghairanking.com/news/arwu/2025). I worked on an interdisciplinary project relating deep learning methods and neurology. I developed a full automatic pipeline to improve the expert decision-making and characterise patients suffering from a stroke. I also worked as an Assistant Professor for 3 years, covering statistics, mathematics and Machine Learning courses.
 
 In 2023, I was a visiting researcher at [Unicamp University](https://unicamp.br/en/) in Brazil. 
