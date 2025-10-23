@@ -15,5 +15,5 @@ Programme
 2. Deep-tech
 3. Feature extraction, unsupervised feature extraction, BSS, dictionary learning
 4. Case study: ECG, EMG, surgery gest prediction, MRI image segmentation, cell cytology, brain stimulation, Alzheimer diagnosis detection, intelligent sensor calibration, MFI and image segmentation, non destructive analysis
-
+{: style="text-align: justify"}
 
