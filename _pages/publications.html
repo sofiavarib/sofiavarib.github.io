@@ -28,7 +28,7 @@ author_profile: true
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    <p style="font-size: smaller;text-align: justify">{% include archive-single.html %}<\p>
   {% endfor %}
 {% endif %}
 
