@@ -50,7 +50,7 @@ layout: default
         {% if page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}
           <p style="font-size: smaller">Recommended citation: <p style='text-align: justify;'>{{ page.citation }}</p><br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download poster</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
         {% elsif page.citation and page.paperurl and page.slidesurl %}
-          <p style="font-size: smaller;"text-align: justify">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download poster</a></p>
+          <p style="font-size: smaller;style="text-align: justify">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download poster</a></p>
         {% elsif page.citation and page.paperurl and page.bibtexurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
         {% elsif page.citation and page.paperurl %}
