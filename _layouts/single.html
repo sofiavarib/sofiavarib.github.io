@@ -48,21 +48,21 @@ layout: default
         {{ content }}
 
         {% if page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}
-          <p style="text-align: justify">Recommended citation: <p style='text-align: justify;'>{{ page.citation }}</p><br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download poster</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
+         <p style="font-size: smaller;text-align: justify">Recommended citation: <p style='text-align: justify;'>{{ page.citation }}</p><br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download poster</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
         {% elsif page.citation and page.paperurl and page.slidesurl %}
-          <p style="text-align: justify">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download poster</a></p>
+          <p style="font-size: smaller;text-align: justify">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download poster</a></p>
         {% elsif page.citation and page.paperurl and page.bibtexurl %}
-          <p style="text-align: justify">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
+          <p style="font-size: smaller;text-align: justify">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
         {% elsif page.citation and page.paperurl %}
-          <p style="text-align: justify">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a></p>
+          <p style="font-size: smaller;text-align: justify">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a></p>
         {% elsif page.citation and page.slidesurl and page.bibtexurl %}
-          <p style="text-align: justify">Recommended citation: {{ page.citation }}<br /><a href="{{ page.slidesurl }}">Download poster</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
+          <p style="font-size: smaller;text-align: justify">Recommended citation: {{ page.citation }}<br /><a href="{{ page.slidesurl }}">Download poster</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
         {% elsif page.citation and page.slidesurl %}
-          <p style="text-align: justify">Recommended citation: {{ page.citation }}<br /><a href="{{ page.slidesurl }}">Download poster</a></p>
+          <p style="font-size: smaller;text-align: justify">Recommended citation: {{ page.citation }}<br /><a href="{{ page.slidesurl }}">Download poster</a></p>
         {% elsif page.slidesurl and page.bibtexurl %}
-          <p style="text-align: justify"><a href="{{ page.slidesurl }}">Download poster</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
+          <p style="font-size: smaller;text-align: justify"><a href="{{ page.slidesurl }}">Download poster</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
         {% elsif page.paperurl and page.bibtexurl %}
-          <p style="text-align: justify"><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
+          <p style="font-size: smaller;text-align: justify"><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
         {% elsif page.citation and page.bibtexurl %}
           <p style="font-size: smaller;text-align: justify">Recommended citation: {{ page.citation }}<br /><a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
         {% elsif page.citation %}
