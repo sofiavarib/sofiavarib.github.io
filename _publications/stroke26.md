@@ -1,7 +1,7 @@
 ---
 title: "Early Recanalization After Tenecteplase or Alteplase in Distal and Medium Vessel Occlusion Strokes"
-collection: manuscripts
-category: conference
+collection: publication
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Submitted'
 date: 2026-03-01
