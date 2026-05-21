@@ -227,6 +227,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  submitted:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -254,6 +257,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _submitted
+  - scope:
+      path: ""
+      type: submiteed
     values:
       layout: single
       author_profile: true
