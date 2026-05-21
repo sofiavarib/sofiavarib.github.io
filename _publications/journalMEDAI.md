@@ -1,6 +1,6 @@
 ---
 title: "Multicentric thrombus segmentation using an attention-based recurrent network with gradual modality dropout"
-collection: publications
+collection: 
 category: manuscripts
 permalink: /publication/journalMEDAI
 date: 2026-01-02
