@@ -1,4 +1,3 @@
-
 ---
 title: "Multicentric thrombus segmentation using an attention-based recurrent network with gradual modality dropout"
 collection: publications
