@@ -3,7 +3,7 @@ title: "Multicentric thrombus segmentation using an attention-based recurrent ne
 collection: submitted
 category: manuscripts
 permalink: /publication/journalMEDAI
-excerpt: 'Submitted'
+excerpt: 'Under Revisision Medical Image Analysis Journal'
 paperurl: 'https://arxiv.org/abs/2604.00817'
 citation: 'Vargas-Ibarra, S., Vigneron, V., Maaref, H., & Garcia-Salicetti, S. (2026). Multicentric thrombus segmentation using an attention-based recurrent network with gradual modality dropout. <i>arXiv preprint arXiv:2604.00817</i>'
 ---
