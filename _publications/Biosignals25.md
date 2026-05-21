@@ -1,7 +1,7 @@
 ---
 title: "Fully Automated Recanalization Prediction in Ischemic Stroke Patients Using Multimodal MRI."
 collection: publications
-category: congress
+category: conference
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
 date: 2026-03-01
