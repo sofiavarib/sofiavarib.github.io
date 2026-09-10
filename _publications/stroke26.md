@@ -1,8 +1,8 @@
 ---
 title: "Early Recanalization After Tenecteplase or Alteplase in Distal and Medium Vessel Occlusion Strokes"
-collection: submitted
+collection: publications
 category: manuscripts
 permalink: /publication/stroke26
 excerpt: 'Under Revision Stroke Journal'
-citation: 'Chausson, N., Benzakoun, J., Vargas-Ibarra, S., L’Hermitte, Y., Ben Hassen, W. , Smadja, D., Turc, G. (2026) "Early Recanalization After Tenecteplase or Alteplase in Distal and Medium Vessel Occlusion Strokes",<i> Stroke 2026.</i>'
+citation: 'Chausson, N., Benzakoun, J., Vargas-Ibarra, S., L’Hermitte, Y., Ben Hassen, W., Smadja, D., & Turc, G. (2026). Early Recanalization After Tenecteplase or Alteplase in Distal and Medium Vessel Occlusion Strokes: An Observational Cohort Study. <i> Stroke.</i>  https://doi.org/10.1161/STROKEAHA.125.054734'
 ---
